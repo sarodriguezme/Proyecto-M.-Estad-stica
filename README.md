@@ -1,1 +1,1 @@
-# Proyecto-M.-Estad-stica
+# Proyecto-M.-Estadistica
